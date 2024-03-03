@@ -34,7 +34,7 @@ AgeCalculate is a fun and handy tool that allows users to quickly calculate thei
 
 ## Demo
 
-You can view a live demo of AgeCalculate [here]([https://your-username.github.io/agecalculate](https://arwaelhadidy.github.io/Age-Calculate/).
+You can view a live demo of AgeCalculate [here]([https://your-username.github.io/agecalculate](https://arwaelhadidy.github.io/Age-Calculate/]).
 
 ## Credits
 Create innovative solutions using JavaScript
