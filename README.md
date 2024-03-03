@@ -26,5 +26,17 @@ AgeCalculate is a fun and handy tool that allows users to quickly calculate thei
 
 1. Clone the repository:
 
-```bash
-git clone https://github.com/ArwaElhadidy/agecalculate.git
+```git clone [https://github.com/arwaelhadidy/LaslesVPN.git]```
+
+2. Open the project directory in your code editor.
+
+3. Launch the index.html file in your preferred web browser to view the landing page.
+
+## Demo
+
+You can view a live demo of AgeCalculate [here](https://your-username.github.io/agecalculate).
+
+## Credits
+Create innovative solutions using JavaScript
+## Author
+[Arwa Elhadidy ;)](https://github.com/ArwaElhadidy)
