@@ -33,7 +33,7 @@ AgeCalculate is a fun and handy tool that allows users to quickly calculate thei
 3. Launch the index.html file in your preferred web browser to view the landing page.
 ## Screenshots
 
-[Age Calculate Screenshot](https://github.com/ArwaElhadidy/Calculator/blob/main/Screenshot%20(178).png)
+[Age Calculate Screenshot](https://github.com/ArwaElhadidy/Age-Calculate/blob/main/Screenshot%20(176).png)
 
 ## Demo
 
