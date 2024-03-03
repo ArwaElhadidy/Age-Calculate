@@ -31,6 +31,9 @@ AgeCalculate is a fun and handy tool that allows users to quickly calculate thei
 2. Open the project directory in your code editor.
 
 3. Launch the index.html file in your preferred web browser to view the landing page.
+## Screenshots
+
+[Age Calculate Screenshot](https://github.com/ArwaElhadidy/Calculator/blob/main/Screenshot%20(178).png)
 
 ## Demo
 
